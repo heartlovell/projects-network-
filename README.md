@@ -44,9 +44,3 @@ This repository showcases my **Network+ projects**, focusing on practical applic
 *LAN scanning results on local network*  
 
 ---
-
-## How to Run
-
-1. **Clone the repository:**  
-```bash
-git clone https://github.com/yourusername/projects-network.git
