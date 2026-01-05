@@ -30,7 +30,7 @@ This repository showcases my **Network+ projects**, focusing on practical applic
 
 ---
 
-## Screenshots / GIFs
+## Projects
 
 > Add images or GIFs to showcase your projects. Replace the placeholders with your screenshots.
 
